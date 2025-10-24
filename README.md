@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Urvish Bhatt
 
-**Senior Software Engineer | Full-Stack & AI Specialist**
+**Senior Software Engineer | Full-Stack & AI Agent Specialist**
 
 Building scalable backend systems, intelligent AI applications, and leading technical teams to deliver production-ready solutions.
 
