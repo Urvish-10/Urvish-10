@@ -68,6 +68,9 @@ Building scalable backend systems, intelligent AI applications, and leading tech
 ### ⚡ [FastAPI Production Template](https://github.com/Urvish-10/FastAPI-Template)
 Production-ready FastAPI template with SQLModel, authentication, and best practices.
 
+### ⚡ [Django API Template Kit](https://github.com/Urvish-10/Django-Development-Kit)
+Django API Template Kit – Robust DRF starter kit with PostgreSQL, drf-spectacular Swagger integration, and best practices built-in.
+
 ---
 
 ## 💼 Professional Skills
