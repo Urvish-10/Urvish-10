@@ -36,6 +36,15 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
+**Robotics & Physical AI**  
+![Isaac Sim](https://img.shields.io/badge/NVIDIA_Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/NVIDIA_Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![OpenUSD](https://img.shields.io/badge/OpenUSD-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Cosmos](https://img.shields.io/badge/NVIDIA_Cosmos-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NuRec](https://img.shields.io/badge/NVIDIA_NuRec-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![3DGRUT](https://img.shields.io/badge/3DGRUT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![openpi](https://img.shields.io/badge/openpi_%7C_%CF%800-1C1C1C?style=flat-square)
+
 **Others**  
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Payment Terminals](https://img.shields.io/badge/Payment_Terminals-FF6B35?style=flat-square)
@@ -75,7 +84,7 @@ I'm passionate about:
 - **Backend Architecture**: scalable API design and microservices
 - **Payment Systems**: secure transaction processing
 - **Full-Stack Development**: end-to-end solution delivery
-- **Robotics & Simulation**: NVIDIA Isaac Sim, Isaac Lab, OpenUSD
+- **Robotics & Physical AI**: NVIDIA Isaac Sim, Isaac Lab, OpenUSD, Cosmos, NuRec, 3DGRUT, and openpi (π0)
 
 **Open to:** technical leadership roles, AI engineering projects, backend architecture challenges, and innovative startup collaborations.
 
